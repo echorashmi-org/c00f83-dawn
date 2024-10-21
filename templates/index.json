@@ -16,7 +16,7 @@
         ".card__content * {color: white; font-weight: bold;}"
       ],
       "settings": {
-        "title": "For Shopping at Shopify's Unique Section",
+        "title": "Unique Home Page Section",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
