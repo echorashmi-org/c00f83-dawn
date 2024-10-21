@@ -15,20 +15,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "expressionism"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "self-portrait-without-beard-vincent-van-gogh",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "italian-renaissance"
           }
         }
       },
